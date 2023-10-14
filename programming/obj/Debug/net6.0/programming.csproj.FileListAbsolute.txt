@@ -1,0 +1,15 @@
+/home/m1a/programming/bin/Debug/net6.0/programming
+/home/m1a/programming/bin/Debug/net6.0/programming.deps.json
+/home/m1a/programming/bin/Debug/net6.0/programming.runtimeconfig.json
+/home/m1a/programming/bin/Debug/net6.0/programming.dll
+/home/m1a/programming/bin/Debug/net6.0/ref/programming.dll
+/home/m1a/programming/bin/Debug/net6.0/programming.pdb
+/home/m1a/programming/obj/Debug/net6.0/programming.csproj.AssemblyReference.cache
+/home/m1a/programming/obj/Debug/net6.0/programming.GeneratedMSBuildEditorConfig.editorconfig
+/home/m1a/programming/obj/Debug/net6.0/programming.AssemblyInfoInputs.cache
+/home/m1a/programming/obj/Debug/net6.0/programming.AssemblyInfo.cs
+/home/m1a/programming/obj/Debug/net6.0/programming.csproj.CoreCompileInputs.cache
+/home/m1a/programming/obj/Debug/net6.0/programming.dll
+/home/m1a/programming/obj/Debug/net6.0/ref/programming.dll
+/home/m1a/programming/obj/Debug/net6.0/programming.pdb
+/home/m1a/programming/obj/Debug/net6.0/programming.genruntimeconfig.cache
