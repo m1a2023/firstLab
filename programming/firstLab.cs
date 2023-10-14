@@ -6,6 +6,7 @@ class mathPerform
 	{
 		string inputedString = Console.ReadLine(); 
 		sortMath(inputedString);
+		Console.WriteLine("connection successful")
 	}
 	
 	private static void sortMath(string input) //на вход принимается строка от пользователя
